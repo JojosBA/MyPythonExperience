@@ -74,7 +74,3 @@ if Text == 1:
     while text_items_in_list > text_count:
         print(morse[converted_text_user_input[text_count]] + "", end="")
         text_count = text_count + 1
-    
-
-
-
